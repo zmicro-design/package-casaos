@@ -13,7 +13,7 @@ help() {
 }
 
 version() {
-  casaos --version
+  casaos -v
 }
 
 core() {
